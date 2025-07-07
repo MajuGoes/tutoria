@@ -1,2 +1,2 @@
 # tutoria
-repositório base para tutoria
+repositório base para tutoria do Programa Desenvolve
