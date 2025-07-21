@@ -1,0 +1,13 @@
+COMO FAZER PULL REQUEST
+
+## Descrição das mudanças
+Descreva o que foi alterado e o motivo. [1, 9]
+
+## Número e link do ticket
+[Ticket] (ex: #123)
+
+## Checklist
+- [ ] Eu realizei a auto-revisão do meu código. [1]
+- [ ] Se for uma funcionalidade principal, adicionei testes abrangentes. [1]
+- [ ] Preciso implementar análises? [1]
+- [ ] Isso fará parte de uma atualização?
